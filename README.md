@@ -33,11 +33,8 @@ Utilize the various filters and interactive elements to explore the house prices
 4. Data Source
 The data used in this dashboard includes information on house prices, number of bedrooms and bathrooms, house conditions, views, and other relevant attributes. Ensure the data source is properly connected in Tableau to visualize the dashboard correctly.
 
-## Contributing
-We welcome contributions to enhance the dashboard or add new features. If you'd like to contribute, please follow these steps:
-
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License.
 
 ## Contact
 If you have any questions or feedback, please feel free to contact us at kaurn6538@gmail.com
