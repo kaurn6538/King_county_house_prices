@@ -10,7 +10,7 @@ Welcome to the House Prices Dashboard repository! This project showcases a Table
 1. Distribution of House Prices: Shows how house prices are distributed across different price ranges.
 2. Distribution of Bedrooms: Displays the frequency of houses with varying numbers of bedrooms.
 3. Distribution of Bathrooms: Illustrates the distribution of houses based on the number of bathrooms.
-4.Heat Map: Visualizes the relationship between house view quality and condition, offering insights into how these factors correlate.
+4. Heat Map: Visualizes the relationship between house view quality and condition, offering insights into how these factors correlate.
 
 ## Additional Filters:
 *    Year Built: Allows users to filter houses based on the year they were constructed.
