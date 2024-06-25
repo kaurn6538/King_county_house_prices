@@ -20,26 +20,26 @@ Welcome to the House Prices Dashboard repository! This project showcases a Table
 ## Getting Started
 To get started with the House Prices Dashboard, follow these steps:
 
-Clone the Repository:
+1 Clone the Repository:
 
 *     git clone https://github.com/yourusername/house-prices-dashboard.git
   
-Open the Dashboard:
+2. Open the Dashboard:
 Open the Tableau workbook file (.twb or .twbx) using Tableau Desktop.
 
-Explore the Dashboard:
+3. Explore the Dashboard:
 Utilize the various filters and interactive elements to explore the house prices data and gain insights.
 
-Data Source
+4. Data Source
 The data used in this dashboard includes information on house prices, number of bedrooms and bathrooms, house conditions, views, and other relevant attributes. Ensure the data source is properly connected in Tableau to visualize the dashboard correctly.
 
-Contributing
+## Contributing
 We welcome contributions to enhance the dashboard or add new features. If you'd like to contribute, please follow these steps:
 
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Contact
+## Contact
 If you have any questions or feedback, please feel free to contact us at kaurn6538@gmail.com
 
 Thank you for using the House Prices Dashboard! We hope you find it insightful and useful for your analysis.
